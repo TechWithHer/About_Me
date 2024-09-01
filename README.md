@@ -1,6 +1,6 @@
 # Hi there, I'm Ayushi Singh 👋
 
-I'm the Founder and CEO of Strenure AI, a tech accelerator specializing in innovative solutions in the fashion, beauty, and salon industries. With a background in Human Psychology and Information Technology, I focus on integrating these fields to create impactful products.
+I'm the Founder and CEO of Strenure AI, a tech accelerator specializing in innovative solutions in the fashion, beauty, and salon industries. With a Human Psychology and Information Technology background, I focus on integrating these fields to create impactful products.
 
 ## 🚀 My Expertise
 - AI and Machine Learning
@@ -23,3 +23,6 @@ I'm the Founder and CEO of Strenure AI, a tech accelerator specializing in innov
 
 ![Profile views](https://komarev.com/ghpvc/?username=ayushisingh&color=brightgreen)
 
+https://github-profile-trophy.vercel.app/?ayusshisingh=ryo-ma&theme=darkhub
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayusshisingh&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
