@@ -22,7 +22,4 @@ I'm the Founder and CEO of Strenure AI, a tech accelerator specializing in innov
 - [Twitter](https://twitter.com/ayushisingh)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ayushisingh&color=brightgreen)
-
-https://github-profile-trophy.vercel.app/?ayusshisingh=ryo-ma&theme=darkhub
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayusshisingh&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
