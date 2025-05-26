@@ -15,11 +15,10 @@ I'm the Founder and CEO of Strenure AI, a tech accelerator specializing in innov
 
 ## 💼 My Projects
 - [Strenure AI Website](https://strenure.com)
-- [100 Days of Code](https://github.com/ayushisingh/100-days-of-code)
+- [Personal Website](https://ayushisingh.com)
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/ayushi-singh)
 - [Twitter](https://twitter.com/ayushisingh)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ayushisingh&color=brightgreen)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayusshisingh&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
